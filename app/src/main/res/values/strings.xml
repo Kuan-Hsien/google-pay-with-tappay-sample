@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">google-pay-with-tappay-sample</string>
+
+    <string name="test_merchant_name">TEST MERCHANT</string>
+    <string name="global_test_app_id">11341</string>
+    <string name="global_test_app_key">app_whdEWBH8e8Lzy4N6BysVRRMILYORF6UxXbiOFsICkz0J9j1C0JUlCHv1tVJC</string>
+
+    <string name="global_test_partnerKey">partner_6ID1DoDlaPrfHw6HBZsULfTYtDmWs0q0ZZGKMBpp4YICWBxgK97eK3RM</string>
+    <string name="global_test_merchant_id">GlobalTesting_CTBC</string>
+
+    <string name="gpay_content_description">Buy with Google Pay</string>
+
+    <string name="confirm_payment">Confirm and pay</string>
+    <string name="ui_total_amount">Total amount: $1.00</string>
+    <string name="ui_card_description">Card Description :%1$s</string>
+
 </resources>
